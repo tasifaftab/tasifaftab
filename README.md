@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Spring MVC**
 
+- 📫 How to reach me **tasifaftab2@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -15,4 +17,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tasifaftab&show_icons=true&locale=en" alt="tasifaftab" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tasifaftab&" alt="tasifaftab" /></p>
-
