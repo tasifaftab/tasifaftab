@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tasif Aftab</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
-- 🌱 I’m currently learning **Spring MVC**
+- 🌱 I’m currently learning **Micro services**
 
 - 📫 How to reach me **tasifaftab2@gmail.com**
 
